@@ -1,12 +1,9 @@
 # Assessment
 
-![image src](https://github.com/Kartikbhaipatil/Assignment/Output-Images/first_view-output.png)
-
-![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-1.png)
-
-![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-2.png)
-
-![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-3.png)
+https://github.com/Kartikbhaipatil/Assignment/blob/main/choise-1.png
+https://github.com/Kartikbhaipatil/Assignment/blob/main/choise-2.png
+https://github.com/Kartikbhaipatil/Assignment/blob/main/choise-3.png
+https://github.com/Kartikbhaipatil/Assignment/blob/main/choise-1.png
 
 # Python E-Note System
 
